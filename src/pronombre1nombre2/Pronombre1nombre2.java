@@ -18,6 +18,7 @@ public class Pronombre1nombre2 {
         System.out.println("Mi segundo nombre es Miguel");
         System.out.println("Mi primer apellido Capcha");
         System.out.println("Mi segundo apellido es Hilari");
+        System.out.println("Tengo 22 años");
     }
     
 }
