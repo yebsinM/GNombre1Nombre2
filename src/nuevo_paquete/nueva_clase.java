@@ -16,6 +16,7 @@ public class nueva_clase {
         System.out.println("UN");
         System.out.println("NUEVO");
         System.out.println("CAMBIO");
+        System.out.println("VAMOS!!");
         
         
     }
