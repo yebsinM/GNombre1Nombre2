@@ -24,6 +24,14 @@ public class Pronombre1nombre2 {
         System.out.println("nuevo intento");
         System.out.println("nuevo intento");
         System.out.println("nuevo intento");
+         System.out.println("nuevo intento");
+          System.out.println("nuevo intento");
+       
+                   System.out.println("nuevo intento");
+                    System.out.println("nuevo intento"); System.out.println("nuevo intento");
+                    
+                   
+          
     }
     
 }
