@@ -16,7 +16,8 @@ public class Pronombre1nombre2 {
     public static void main(String[] args) {
         System.out.println("Hola soy el Usuario 1");
         System.out.println("Mi segundo nombre es Miguel");
-        System.out.println("Mi primer apellido Capcha");
+        System.out.println("Mi primer apelli"
+                + "do Capcha");
         System.out.println("Mi segundo apellido es Hilari");
         System.out.println("Tengo 22 años");
         System.out.println("Soy de nacionalidad peruana");
