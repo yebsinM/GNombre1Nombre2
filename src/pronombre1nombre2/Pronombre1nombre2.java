@@ -14,7 +14,7 @@ public class Pronombre1nombre2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Mi primer nombre es Yebsin");
+        System.out.println("Hola soy el Usuario 1");
         System.out.println("Mi segundo nombre es Miguel");
         System.out.println("Mi primer apellido Capcha");
         System.out.println("Mi segundo apellido es Hilari");
